@@ -4,5 +4,5 @@ var bankName = "BOP";
 accAddress = "bwp";
 
 
-/* car not to use the  var because its issues of block scop and functional scope
+/* var not to use the  var because its issues of block scop and functional scope
 */
