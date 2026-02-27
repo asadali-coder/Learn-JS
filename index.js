@@ -1,1 +1,1 @@
-// console.log("Learn js for revision its commet for updating ")
+// console.log("Learn js for revision its commet")
