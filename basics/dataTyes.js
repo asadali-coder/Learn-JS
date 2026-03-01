@@ -6,6 +6,8 @@
 
 1: String 
 2: Number
-3: Boolean
+3: Bigint 
+4: Boolean
+5: Special type
 
 */
